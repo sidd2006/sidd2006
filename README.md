@@ -1,16 +1,24 @@
-## Hi there 👋
+# Siddhant Khurdiya
 
-<!--
-**sidd2006/sidd2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build machine-learning, backend, and systems projects, with an emphasis on explaining how they work and documenting the evidence behind their results.
 
-Here are some ideas to get you started:
+## Selected team projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus |
+| --- | --- |
+| [PathSnap](https://github.com/sidd2006/PathSnap) | GPS route reconstruction with LightGBM, HMM decoding, FastAPI, and a web map |
+| [Find vs Fix](https://github.com/sidd2006/find-vs-fix) | Comparing transformer shortcut localization with block-level repair |
+| [MarketPulse](https://github.com/sidd2006/Market-Pulse) | Portfolio-management demo with relational accounting and semantic news search |
+| [Jackfruit](https://github.com/sidd2006/OS-Jackfruit-FINAL) | Linux container runtime, process supervision, IPC, and a kernel memory monitor |
+| [Research et AL](https://github.com/sidd2006/Et-Al) | Next.js research-club website and Markdown publication platform |
+
+Team credits and responsibilities are documented in the individual repositories.
+
+## Tools used across my work
+
+- **ML and data:** Python, pandas, scikit-learn, LightGBM, PyTorch
+- **Backend and databases:** FastAPI, Flask, SQLAlchemy, MySQL
+- **Web:** React, Next.js, TypeScript, Tailwind CSS
+- **Systems and hardware:** C, Linux, pthreads, Arduino
+
+My repositories also include coursework in software testing, networking, version control, and embedded sensor integration.
