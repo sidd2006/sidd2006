@@ -14,6 +14,10 @@ I build machine-learning, backend, and systems projects, with an emphasis on exp
 
 Team credits and responsibilities are documented in the individual repositories.
 
+## Trading automation
+
+[20D-STRAT: India & US](https://github.com/sidd2006/20D-STRAT) combines an AngelOne/Azure trading prototype and an Alpaca paper-account runner. It includes vectorized momentum signals, fill-aware stop placement, recovery state, a Flask dashboard, and offline regression checks in GitHub Actions. The repository documents execution assumptions and limitations without claiming audited investment returns.
+
 ## Tools used across my work
 
 - **ML and data:** Python, pandas, scikit-learn, LightGBM, PyTorch
